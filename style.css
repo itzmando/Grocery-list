@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    font-size:30px;
+    font-weight: 600;
+    color:brown;
+}
+.pantry{ 
+    background-color: lightpink;
+    font-size: 30px;
+    border: 3px solid black;
+    margin: auto;
+}
+.can{
+    display: inline-block;
+    background-color: lightgray;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+}
+.snacks{
+    display: inline-block;
+    background-color: lightgray;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+}
+.freezer{
+    background-color: lightpink;
+    font-size: 30px;
+    border: 3px solid black;
+    margin:auto;
+}
+.meats{
+    display: inline-block;
+    background-color: lightgray;
+    width: 190px;
+    padding: 10px;
+    margin: 10px;
+}
+.drinks{
+    display: inline-block;
+    background-color: lightgray;
+    width: 190px;
+    padding: 10px;
+    margin: 10px;
+}
+.cocoa {
+    width: 150px;
+    display: inline-block;
+    border: solid black;
+
+}
+.milk{
+    width: 100px;
+    border: solid black;
+}
