@@ -16,6 +16,7 @@ h1{
     width: 200px;
     padding: 5px;
     margin: 10px;
+    border: 20px solid lightgrey;
 }
 .snacks{
     display: inline-block;
@@ -23,6 +24,7 @@ h1{
     width: 200px;
     padding: 5px;
     margin: 10px;
+    border: 20px solid lightgrey;
 }
 .freezer{
     background-color: lightpink;
@@ -36,6 +38,7 @@ h1{
     width: 190px;
     padding: 10px;
     margin: 10px;
+    border: 20px solid lightgrey;
 }
 .drinks{
     display: inline-block;
@@ -43,6 +46,7 @@ h1{
     width: 190px;
     padding: 10px;
     margin: 10px;
+    border: 20px solid lightgray;
 }
 .cocoa {
     width: 150px;
