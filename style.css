@@ -15,7 +15,7 @@ div{
     border: 20px solid lightgrey;
 }
 
-.cocoa {
+#cocoa {
     width: 150px;
     border: solid black;
     padding: 5px;
